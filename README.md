@@ -20,7 +20,7 @@ Artist
 
 Misspelled song
 
-run the .jar, authenticate your account, and a youtube playlist will automatically be created.
+run the .jar (make sure the lib folder is in the same directory), authenticate your account, and a youtube playlist will automatically be created.
 Since it's just executing a series of youtube searches, the format and spelling are not terribly important.
 Enjoy!
 
