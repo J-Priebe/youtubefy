@@ -13,8 +13,11 @@ How to use:
 All you need is a text file containing information about the songs you want, line by line. For example:
 
 Artist - Song
+
 Song2 - Artist2
+
 Artist
+
 Misspelled song
 
 run the .jar, authenticate your account, and a youtube playlist will automatically be created.
